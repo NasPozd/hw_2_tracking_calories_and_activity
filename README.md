@@ -2,7 +2,7 @@
 
 Telegram бот для отслеживания физической активности, питания и прогресса в достижении фитнес-целей.
 
-🤖 **Попробовать бота**: [Fitness Tracker Bot](https://telegram.my/bot)
+🤖 **Попробовать бота**: [@HW2TrackingBot](https://t.me/HW2TrackingBot)
 
 ## 🌟 Возможности
 
@@ -38,28 +38,28 @@ Telegram бот для отслеживания физической актив�
 ## 📱 Демонстрация функций
 
 ### Настройка профиля
-![Настройка профиля](gif/set_profile.gif)
+![Настройка профиля](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/set_profile.gif)
 
 ### Запись тренировки
-![Запись тренировки](gif/log_workout.gif)
+![Запись тренировки](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_workout.gif)
 
 ### Запись приема пищи
-![Запись приема пищи](gif/log_food.gif)
+![Запись приема пищи](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_food.gif)
 
 ### Запись потребления воды
-![Запись воды](gif/log_water.gif)
+![Запись воды]([gif/log_water.gif](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_water.gif))
 
 ### Проверка прогресса
-![Проверка прогресса](gif/check_progress.gif)
+![Проверка прогресса](https://raw.githubusercontent.com/NasPozd/hw_2_tracking_calories_and_activity/refs/heads/main/img/check_progress.gif)
 
 ### Просмотр графика прогресса
-![График прогресса](gif/view_progress.gif)
+![График прогресса](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/view_progress.gif)
 
 ### Получение рекомендаций
-![Получение рекомендаций](gif/get_recommendations.gif)
+![Получение рекомендаций](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/get_recommendations.gif)
 
 ### Проверка погоды
-![Проверка погоды](gif/weather.gif)
+![Проверка погоды](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/weather.gif)
 
 ## 🚀 Установка и запуск
 
