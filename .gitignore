@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Логи и базы данных
+*.log
+logs/
+*.db
+*.sqlite
+*.sqlite3
+fitness.db/
+
+# Docker
+.docker/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.bak
+*.swp
+*.pid
+*.seed
+*.pid.lock
+
+# Файлы покрытия тестами
+.coverage
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Файлы mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Файлы профилирования
+*.prof
+
+# Локальные конфигурации
+local_settings.py
+
+# Файлы документации
+/site
+/docs/_build/
+
+# Кэш и временные файлы
+__pycache__/
+.cache/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# Файлы среды выполнения
+*.env
+!.env.example
+
+# Файлы сборки
+*.spec

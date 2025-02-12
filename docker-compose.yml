@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  bot:
+    build: .
+    container_name: fitness_bot
+    volumes:
+      - .:/app
+      - ./fitness.db:/app/fitness.db/
+      - ./logs:/app/logs/
+    env_file:
+      - .env
+    restart: always
+    environment:
+      - PYTHONPATH=/app
+      - TZ=Europe/Moscow
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8080/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          cpus: '0.50'
+          memory: 500M
+        reservations:
+          cpus: '0.25'
+          memory: 200M
+    networks:
+      - bot_network
+
+networks:
+  bot_network:
+    driver: bridge
