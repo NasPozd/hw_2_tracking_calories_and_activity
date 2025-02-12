@@ -47,7 +47,7 @@ Telegram бот для отслеживания физической актив�
 ![Запись приема пищи](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_food.gif)
 
 ### Запись потребления воды
-![Запись воды]([gif/log_water.gif](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_water.gif))
+![Запись воды](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/ea764a69f5e36d179e010eda5f6b1ce96f5586f7/img/log_water.gif)
 
 ### Проверка прогресса
 ![Проверка прогресса](https://raw.githubusercontent.com/NasPozd/hw_2_tracking_calories_and_activity/refs/heads/main/img/check_progress.gif)
