@@ -4,6 +4,9 @@ Telegram бот для отслеживания физической актив�
 
 🤖 **Попробовать бота**: [@HW2TrackingBot](https://t.me/HW2TrackingBot)
 
+## Деплой бота
+![логи](https://github.com/NasPozd/hw_2_tracking_calories_and_activity/blob/9232599a6d1620bc514933a7d56fd72e90874d0e/img/2025-02-12_21-35-50.png)
+
 ## 🌟 Возможности
 
 - 📝 **Управление профилем**
